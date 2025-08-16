@@ -123,22 +123,22 @@ This project includes **12 specialized CrewAI agent systems**:
 ```
 multi-ai-agent-system/
 │
-├── collaboration_financial_analysis/
-├── customer_support/
-├── job_application_crew/
-├── research_write_article/
-├── tasks_event_planning/
-├── tools_customer_outreach/
-├── notebooks/
-│   ├── Building Your Crew for Production.ipynb
-│   ├── External Integration.ipynb
-│   ├── Content Creation at Scale.ipynb
-│   ├── Support Data Insight Analysis.ipynb
-│   ├── Automated Project.ipynb
-│   └── Agentic Sales Pipeline.ipynb
+├── collaboration_financial_analysis.ipynb
+├── customer_support.ipynb
+├── job_application_crew.ipynb
+├── research_write_article.ipynb
+├── tasks_event_planning.ipynb
+├── tools_customer_outreach.ipynb
+├── Building Your Crew for Production.ipynb
+├── External Integration.ipynb
+├── Content Creation at Scale.ipynb
+├── Support Data Insight Analysis.ipynb
+├── Automated Project.ipynb
+├── Agentic Sales Pipeline.ipynb
 ├── requirements.txt
 ├── README.md
 └── .env
+
 ```
 
 ---
